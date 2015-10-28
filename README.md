@@ -1,4 +1,4 @@
 # Monsterify
-A Monsters Inc badge maker. Upload an image and it will generate an auto ID. Use for American High School Class of 2017 
+A Monsters Inc badge maker. Upload an image and it will generate an auto ID. Use by American High School Class of 2017. 
 
-Only works on Apache server. 
+Only works on web server. No static HTML files.
