@@ -3,4 +3,4 @@ A Monsters Inc badge maker. Upload an image and it will generate an auto ID. Use
 
 Only works on web server. No static HTML files.
 
-Live demo @ <a href="appkitchen.xyz/monsterify">App Kitchen</href>
+Live demo @ <a href="http://appkitchen.xyz/monsterify">App Kitchen</href>
